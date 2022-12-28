@@ -1,7 +1,7 @@
 ### Olá! Sou o Samuel Souza 👋
 
-    - 🔭 Trabalho atualmente com desenvolvimento web
-    - 🌱 Estudante de Laravel e Blade
+- 🔭 Trabalho atualmente com desenvolvimento web
+- 🌱 Estudante de Laravel e Blade
 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
