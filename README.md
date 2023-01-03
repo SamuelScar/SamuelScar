@@ -6,7 +6,7 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](https://www.linkedin.com/in/samuel-souza-carvalho-5a59451a7/)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](negocios.safr@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:negocios.safr@gmail.com)
 
 ![Langueges stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelScar&layout=compact&langs_count=10&theme=dark)
  
