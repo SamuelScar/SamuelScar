@@ -8,8 +8,7 @@
 )](https://www.linkedin.com/in/samuel-souza-carvalho-5a59451a7/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](negocios.safr@gmail.com)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=SamuelScar&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
-![Langueges stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelScar&layout=compact&langs_count=16&theme=dark)
+![Langueges stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelScar&layout=compact&langs_count=10&theme=dark)
  
 ##
 ### Tecnologias mais usadas no dia a dia
