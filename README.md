@@ -13,15 +13,9 @@ Currently working with:
 - Docker
 - Linux
 
-## 🚀 Tech Stack by Projects
-<p>
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelScar&layout=compact&theme=transparent"
-    alt="Top languages"
-  />
-</p>
-
----
+<!-- ## 🚀 Tech Stack by Projects
+[![Samuel GitHub stats](https://github-readme-stats.vercel.app/api?username=samuelscar&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+--- -->
 
 ## 💡 Interests
 System design • APIs • Data processing • Performance optimization
