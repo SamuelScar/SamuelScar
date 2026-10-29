@@ -146,18 +146,6 @@ The source code is currently maintained in a private repository because the proj
 
 ---
 
-### [ANS Despesas Analytics](https://github.com/SamuelScar/ans-despesas-analytics)
-
-Data engineering and backend application developed with Python for ingesting, validating, enriching, storing and analyzing public expense data from the Brazilian National Supplementary Health Agency.
-
-The project includes a complete ETL pipeline, PostgreSQL persistence, analytical SQL queries and a FastAPI application organized with Router, Service and Repository layers.
-
-It also documents architectural decisions, inconsistencies found in the original datasets, technical trade-offs and the strategies adopted to process heterogeneous public files efficiently.
-
-**Highlights:** Python · FastAPI · ETL · PostgreSQL · Data validation · Layered architecture
-
----
-
 ### [CEASA Data Platform](https://github.com/SamuelScar/ceasa-statistics)
 
 Data collection, processing and analytical solution for public price quotations from Brazilian CEASAs.
@@ -169,6 +157,18 @@ The dashboard was developed with Python and Streamlit, while PostgreSQL and Supa
 **Related repository:** [CEASA Data Scraper](https://github.com/SamuelScar/cotacoes-ceasa-scraper)
 
 **Highlights:** Web scraping · Data normalization · PostgreSQL · Streamlit · Docker · Data visualization
+
+---
+
+### [ANS Despesas Analytics](https://github.com/SamuelScar/ans-despesas-analytics)
+
+Data engineering and backend application developed with Python for ingesting, validating, enriching, storing and analyzing public expense data from the Brazilian National Supplementary Health Agency.
+
+The project includes a complete ETL pipeline, PostgreSQL persistence, analytical SQL queries and a FastAPI application organized with Router, Service and Repository layers.
+
+It also documents architectural decisions, inconsistencies found in the original datasets, technical trade-offs and the strategies adopted to process heterogeneous public files efficiently.
+
+**Highlights:** Python · FastAPI · ETL · PostgreSQL · Data validation · Layered architecture
 
 ---
 
